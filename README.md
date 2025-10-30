@@ -162,7 +162,7 @@ sudo reboot
 
 ## 🖼️ Example Setup
 
-*(Add your own images or screenshots later)*
+Images Coming soon!
 
 | Lobby Display | Media Folder | Behind the Scenes |
 |----------------|---------------|--------------------|
