@@ -3,8 +3,9 @@
 
 ---
 
-![Project Banner](docs/banner.png)  
-> _Add your own banner image here (recommended size: 1200×400px)._
+<p align="center">
+  <img src="assets/Video%20Looper%20Bannere.png" alt="Pi Zero Video Looper Banner" width="1000" height="500"/>
+</p>
 
 ---
 
