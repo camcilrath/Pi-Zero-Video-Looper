@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/Language-Bash-blue?logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/License-MIT-green" />
   <img src="https://img.shields.io/badge/Status-Stable-brightgreen" />
-  <img src="https://img.shields.io/badge/Made%20With-%E2%9D%A4%EF%B8%8F%20by%20Chris%20McIlrath-orange" />
+  <img src="https://img.shields.io/badge/Made%20By-%20Chris%20McIlrath-orange" />
+
 </p>
 
 ---
